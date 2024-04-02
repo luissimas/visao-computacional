@@ -1,0 +1,3 @@
+#+title: Readme
+
+Recursos utilizados ao longo da disciplina de Visão Computacional ministrada no Departamento de Computação da UFSCar em 2024. Para mais informações visite o [[https://github.com/chcomin/curso-visao-computacional-2024][repositório do professor]].

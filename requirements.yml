@@ -1,0 +1,25 @@
+name: visao_computacional
+channels:
+  - pytorch
+  - plotly
+  - defaults
+  - conda-forge
+dependencies:
+  - pytorch
+  - python
+  - pytorch
+  - torchvision
+  - torchaudio
+  - matplotlib
+  - notebook
+  - numpy
+  - scipy
+  - transformers
+  - diffusers
+  - accelerate
+  - python-graphviz
+  - ipympl
+  - scikit-learn
+  - timm
+  - plotly
+
